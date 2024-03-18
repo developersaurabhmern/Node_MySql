@@ -16,7 +16,6 @@ For JWT Authentication, we’re gonna call 2 endpoints:
 
 The following flow shows you an overview of Requests and Responses that React Client will make or receive. This React Client must add a JWT to HTTP Header before sending request to protected resources.
 
-![react-jwt-authentication-flow](react-jwt-authentication-flow.png)
 
 ### Set port
 .env
