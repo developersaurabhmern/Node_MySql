@@ -18,34 +18,6 @@ The following flow shows you an overview of Requests and Responses that React Cl
 
 ![react-jwt-authentication-flow](react-jwt-authentication-flow.png)
 
-## Demo Video
-This is full React + Node.js Express JWT Authentication & Authorization demo (with form validation, check signup username/email duplicates, test authorization with 3 roles: Admin, Moderator, User):
-
-[![react-express-authentication-jwt-example-feature-image](http://img.youtube.com/vi/tNcWX9qPcCM/0.jpg)](http://www.youtube.com/watch?v=tNcWX9qPcCM "React + Node.js Express JWT Authentication & Authorization demo")
-
-Or React with Spring Boot Server:
-
-[![Spring Boot Reactjs JWT Authentication example](http://img.youtube.com/vi/CsgtYvlR7xk/0.jpg)](http://www.youtube.com/watch?v=CsgtYvlR7xk "Spring Boot Reactjs JWT Authentication example")
-
-## React Component Diagram with Router, Axios & LocalStorage
-
-![react-jwt-authentication-project-overview](react-jwt-authentication-project-overview.png)
-
-For more detail, please visit:
-> [React (without Redux) JWT Authentication & Authorization example](https://www.bezkoder.com/react-jwt-auth/)
-
-> [React JWT Authentication & Authorization example with HttpOnly Cookie](https://www.bezkoder.com/react-login-example-jwt-hooks/)
-
-> [React - How to Logout when Token is expired](https://www.bezkoder.com/react-logout-token-expired/)
-
-> [React Redux JWT Authentication & Authorization example](https://www.bezkoder.com/react-redux-jwt-auth/)
-
-> [React Hooks: JWT Authentication & Authorization example](https://www.bezkoder.com/react-hooks-jwt-auth/)
-
-> [React + Redux + Hooks: JWT Authentication & Authorization example](https://www.bezkoder.com/react-hooks-redux-login-registration-example/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Set port
 .env
 ```
